@@ -1,0 +1,2 @@
+# Huffman-Tree
+This program is a Huffman Tree Implementation:   1- It takes the input from a file   2- Construct a frequency table for the different characters the input is composed of  3- Based on the frequency table, it creates a Huffman tree and a bitmap  4- Using the Bitmap, it encodes the input  5- Then, decode it again...   Which means your input and output file have to be exactly the same ; otherwise, there is something wrong going on 
